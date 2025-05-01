@@ -10,8 +10,11 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/d0cb1364-47f0-4a3b-b18e-c2baef7f3749)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/4988a1b4-8849-4902-b766-24965e4c1eea)
 
 
 

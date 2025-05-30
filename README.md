@@ -169,12 +169,15 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 10.	End
 ## PROGRAM:
 
-![image](https://github.com/user-attachments/assets/5aadb607-8836-4f63-90eb-c88a8592fe6c)
+![image](https://github.com/user-attachments/assets/5ea9f706-e944-494d-b2c4-d6219313773c)
+
 
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/09050b1b-7ead-4910-aac1-5ad63da3a563)
+
+![image](https://github.com/user-attachments/assets/fbac9c24-8afd-4159-b63b-e126f7e9d232)
+
 
 
 ## RESULT:

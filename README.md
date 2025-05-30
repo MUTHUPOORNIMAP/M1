@@ -88,13 +88,15 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## PROGRAM:
 
-![image](https://github.com/user-attachments/assets/b70b605c-aa27-45cc-b902-d03abe9bc99e)
+![image](https://github.com/user-attachments/assets/3b9f22bb-f70b-460d-abd5-ad856668bf52)
+
 
 
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/15735e7f-0ecb-4521-997b-a38951b52d11)
+![image](https://github.com/user-attachments/assets/20eee4d6-3295-458e-84e2-99a38762d90e)
+
 
 
 
